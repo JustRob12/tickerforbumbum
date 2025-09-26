@@ -12,7 +12,13 @@ export default function Home() {
     "/pleasepleaseplease.m4a",
     "/sigenaoh.m4a",
     "/sigenapleasee.m4a",
-    "/uno.m4a"
+    "/uno.m4a",
+    "/iloveyou.m4a",
+    "/imissyou.m4a",
+    "/nanoman.m4a",
+    "/pretty.m4a",
+    "/sad.m4a",
+    "/cutie.m4a"
   ];
 
   return (
